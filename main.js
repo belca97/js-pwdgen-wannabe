@@ -5,7 +5,7 @@ let cognome = prompt ('inserisci il tuo cognome');
 console.log(cognome)
 
 
-let colorePreferito = prompt('inserisci il tuo cognome preferito');
+let colorePreferito = prompt('inserisci il tuo colore preferito');
 console.log(colorePreferito)
 
 
